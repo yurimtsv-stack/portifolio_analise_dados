@@ -11,7 +11,7 @@ Este projeto apresenta uma análise completa de uma base de dados de E-commerce,
 ## 📺 Apresentação em Vídeo
 Confira uma demonstração prática de 30 segundos dos painéis em funcionamento:
 
-<video src="Apresentação.mp4" width="100%" controls></video>
+<video src="./Apresentação.mp4" width="100%" controls></video>
 
 ---
 
