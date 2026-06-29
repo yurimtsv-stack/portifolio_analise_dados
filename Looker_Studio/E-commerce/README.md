@@ -18,13 +18,13 @@ Confira uma demonstração prática de 30 segundos dos painéis em funcionamento
 ## 📈 Dashboards Criados
 
 ### 1. Visão Geral de Vendas
-<img src="Visão Geral de Vendas.png" alt="Visão Geral de Vendas" width="500">
+<img src="visão Geral de Vendas.png" alt="Visão Geral de Vendas" width="100%">
 
 ### 2. Comportamento de Vendas
-![Comportamento de Vendas](Comportamento de Vendas.png)
+<img src="Comportamento de Vendas.png" alt="Comportamento de Vendas" width="100%">
 
 ### 3. Performance da Equipe
-![Performance da Equipe](Performance da Equipe.png)
+<img src="Performance da Equipe.png" alt="Performance da Equipe" width="100%">
 
 ---
 
