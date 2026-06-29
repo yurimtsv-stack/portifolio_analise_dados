@@ -18,7 +18,7 @@ Confira uma demonstração prática de 30 segundos dos painéis em funcionamento
 ## 📈 Dashboards Criados
 
 ### 1. Visão Geral de Vendas
-![Visão Geral de Vendas](Visão Geral de Vendas.png)
+<img src="https://github.com/yurimtsv-stack/portifolio_analise_dados/edit/main/Looker_Studio/E-commerce/Visão Geral de Vendas.png" alt="Texto alternativo" width="500">
 
 ### 2. Comportamento de Vendas
 ![Comportamento de Vendas](Comportamento de Vendas.png)
