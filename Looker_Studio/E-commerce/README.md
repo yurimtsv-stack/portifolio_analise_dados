@@ -29,7 +29,3 @@ Confira uma demonstração prática de 30 segundos dos painéis em funcionamento
 <img src="Performance da Equipe.png" alt="Performance da Equipe" width=500>
 
 ---
-
-## 🔗 Links Úteis
-* [Acesse o Dashboard Interativo no Looker Studio](COLE_O_LINK_DO_LOOKER_STUDIO_AQUI)
-* A base de dados editada pode ser encontrada no arquivo `_vendas_ecommerce_editavel.csv` nesta pasta.
