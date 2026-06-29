@@ -11,14 +11,14 @@ Este projeto apresenta uma análise completa de uma base de dados de E-commerce,
 ## 📺 Apresentação em Vídeo
 Confira uma demonstração prática de 30 segundos dos painéis em funcionamento:
 
-<video src="Apresentação dos 3 em práticas.mp4" width="100%" controls></video>
+<video src="Apresentação dos 3 em prática.mp4" width="600" controls autoplay loop muted></video>
 
 ---
 
 ## 📈 Dashboards Criados
 
 ### 1. Visão Geral de Vendas
-<img src="visão Geral de Vendas.png" alt="Visão Geral de Vendas" width=500>
+<img src="Visão Geral de Vendas.png" alt="Visão Geral de Vendas" width=500>
 
 ### 2. Comportamento de Vendas
 <img src="Comportamento de Vendas.png" alt="Comportamento de Vendas" width=500>
