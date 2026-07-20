@@ -58,7 +58,10 @@ Durante a análise dos dados, foi possível identificar:
 
 ---
 # 🔗 Acesso ao Projeto
-- 📂 Dashboard: https://github.com/yurimtsv-stack/portifolio_analise_dados/tree/main/Looker_Studio/E-commerce
+- 📂 Dashboard:
+    - Visão Geral de Vendas: https://github.com/yurimtsv-stack/portifolio_analise_dados/blob/main/Looker_Studio/E-commerce/Vis%C3%A3o%20Geral%20de%20Vendas.png
+    - Comportamento de Vendas: https://github.com/yurimtsv-stack/portifolio_analise_dados/blob/main/Looker_Studio/E-commerce/Comportamento%20de%20Vendas.png
+    - Performance da Equipe: https://github.com/yurimtsv-stack/portifolio_analise_dados/blob/main/Looker_Studio/E-commerce/Performance%20da%20Equipe.png
 - 🎥 Vídeo demonstrativo: <a href="https://drive.google.com/drive/folders/1esBEbYO69AUER3gTIDdQqHpSuR0Pvl7O" target="_blank">
   <img src="visão Geral de Vendas.png" alt="Clique aqui para assistir a demonstração em vídeo" width="100%">
 </a>
