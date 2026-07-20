@@ -1,23 +1,21 @@
 # 📊 Dashboard de Análise de Dados — E-commerce
-# 📌 Sobre o Projeto
+📌 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do meu portfólio com o objetivo de demonstrar minhas habilidades em análise de dados aplicada a negócios.
 
 A proposta consiste em transformar dados brutos de um e-commerce em informações estratégicas, permitindo identificar padrões, otimizar decisões e gerar valor para a operação.
 ---
-## 🛠️ Ferramentas Utilizadas
-* **Google Sheets**: Limpeza, tratamento e manipulação da base de dados.
-* **Looker Studio**: Construção dos 3 dashboards integrados.
+🛠️ Ferramentas Utilizadas
+- Google Sheets: Limpeza, tratamento e manipulação da base de dados.
+- Looker Studio: Construção dos 3 dashboards integrados.
 ---
 # 🎯 Objetivo
-
 Criar um dashboard interativo que permita:
 
 - Identificar horários de pico de vendas
 - Analisar produtos mais rentáveis
 - Avaliar clientes mais frequentes
 - Medir desempenho de funcionários
-
 ---
 
 ## 📺 Apresentação em Vídeo
@@ -77,11 +75,11 @@ Este projeto reforça minha capacidade de:
 
 Estou em constante evolução e este é apenas um dos projetos que compõem meu portfólio.
 ---
-# 🚀 Próximos Passos
+🚀 Próximos Passos
 - Desenvolvimento de dashboards em Power BI
 - Projetos utilizando Excel avançado
 - Integração com bases de dados mais complexas
 ---
-# 👨‍💻 Autor
+👨‍💻 Autor
 
 Yuri Silva
