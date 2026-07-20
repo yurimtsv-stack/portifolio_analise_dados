@@ -58,8 +58,10 @@ Durante a análise dos dados, foi possível identificar:
 
 ---
 # 🔗 Acesso ao Projeto
-- 📂 Dashboard: (mantenha seu link atual aqui)
-- 🎥 Vídeo demonstrativo: (mantenha seu link atual aqui)
+- 📂 Dashboard: https://github.com/yurimtsv-stack/portifolio_analise_dados/tree/main/Looker_Studio/E-commerce
+- 🎥 Vídeo demonstrativo: <a href="https://drive.google.com/drive/folders/1esBEbYO69AUER3gTIDdQqHpSuR0Pvl7O" target="_blank">
+  <img src="visão Geral de Vendas.png" alt="Clique aqui para assistir a demonstração em vídeo" width="100%">
+</a>
 
 ---
 # 📌 Considerações Finais
