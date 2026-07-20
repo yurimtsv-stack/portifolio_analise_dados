@@ -45,20 +45,22 @@ Confira uma demonstração prática de 30 segundos dos painéis em funcionamento
 
 Durante a análise dos dados, foi possível identificar:
 
-⏰ Horários de pico: períodos com maior volume de vendas, úteis para planejamento operacional
-💰 Produtos mais rentáveis: itens com maior impacto no faturamento
-🔁 Clientes recorrentes: base fiel que pode ser trabalhada com estratégias de retenção
-📊 Desempenho de funcionários: análise comparativa de produtividade
+- ⏰ Horários de pico: períodos com maior volume de vendas, úteis para planejamento operacional
+- 💰 Produtos mais rentáveis: itens com maior impacto no faturamento
+- 🔁 Clientes recorrentes: base fiel que pode ser trabalhada com estratégias de retenção
+- 📊 Desempenho de funcionários: análise comparativa de produtividade
 
 # Esses insights podem ser utilizados para:
 
-Melhorar a alocação de recursos
-Aumentar a eficiência operacional
-Otimizar estratégias de vendas
+- Melhorar a alocação de recursos
+- Aumentar a eficiência operacional
+- Otimizar estratégias de vendas
+
 ---
 # 🔗 Acesso ao Projeto
-📂 Dashboard: (mantenha seu link atual aqui)
-🎥 Vídeo demonstrativo: (mantenha seu link atual aqui)
+- 📂 Dashboard: (mantenha seu link atual aqui)
+- 🎥 Vídeo demonstrativo: (mantenha seu link atual aqui)
+
 ---
 # 📌 Considerações Finais
 
@@ -71,9 +73,9 @@ Este projeto reforça minha capacidade de:
 Estou em constante evolução e este é apenas um dos projetos que compõem meu portfólio.
 ---
 # 🚀 Próximos Passos
-Desenvolvimento de dashboards em Power BI
-Projetos utilizando Excel avançado
-Integração com bases de dados mais complexas
+- Desenvolvimento de dashboards em Power BI
+- Projetos utilizando Excel avançado
+- Integração com bases de dados mais complexas
 ---
 # 👨‍💻 Autor
 
