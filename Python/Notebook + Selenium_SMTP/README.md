@@ -100,4 +100,4 @@ O projeto demonstra a capacidade de:
 
 ## 📬 Contato
 
-- GitHub: (coloque aqui)
+- GitHub: https://github.com/settings/profile
