@@ -37,7 +37,7 @@ A proposta consiste em estudar o conceito básico e a sintaxe de Banco de Dados 
 
 Este estudo reforça minha capacidade de:
 
-- Estudar e entender o conteúdo ao invés sem perder o foco.
+- Estudar e entender o conteúdo sem perder o foco.
 - Visualizar comandos e entender o que eles estão fazendo em cada linha.
 - Aprender constantemente quando posso.
 - Começar uma coisa e ir até o final.
