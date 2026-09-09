@@ -14,7 +14,6 @@ A proposta consiste em estudar o conceito básico e a sintaxe de Banco de Dados 
 - Simplificar a sintaxe e suas funções
 - Entender como manipular e editar tabelas
 - Saber fazer o que for proposto pela equipe de modo simples e compreensível
----
 
 ---
 # 🔍 Principais Comandos Aprendidos
