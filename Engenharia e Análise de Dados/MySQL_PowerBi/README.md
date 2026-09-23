@@ -2,7 +2,7 @@
 # 📊 Dashboard de Análise de Dados — Distribuidora (Fictícia)
 📌 Sobre o Projeto
 
-  Projeto feito com finalidade de analisar uma distribuidora fictícia e aprender como usar os dados da mesma para apresentar um relatório.
+  Projeto feito com a finalidade de testar a capacidade de usar multiplas ferramentas e trazer um resultado sólido. 
   
 ---
 🛠️ Ferramentas Utilizadas
