@@ -22,7 +22,7 @@ Criar um dashboard interativo que permita:
 Confira uma demonstração prática de 30 segundos dos painéis em funcionamento:
 
 <a href="https://drive.google.com/drive/folders/1esBEbYO69AUER3gTIDdQqHpSuR0Pvl7O" target="_blank">
-  <img src="visão Geral de Vendas.png" alt="Clique aqui para assistir a demonstração em vídeo" width="100%">
+  <img src="Visão Geral de Vendas.png" alt="Clique aqui para assistir a demonstração em vídeo" width="100%">
 </a>
 
 ---
