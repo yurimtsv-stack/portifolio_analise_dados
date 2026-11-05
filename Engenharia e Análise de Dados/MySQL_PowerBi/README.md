@@ -8,7 +8,6 @@
 🛠️ Ferramentas Utilizadas
 - MySQL: Usado para criar o esqueleto da base de dados fictícia, como o database e as tabelas.
 - Claude IA: Usado para preencher as tabelas do SQL com dados fictícios de maneira mais rápida de acordo com as instruções do usuário.
-- Chat GPT: Power BI naturalmente não aceita arquivos .sql sem estar conectado a um servidor local ou remoto, então essa IA foi usada para converter o arquivo .sql para .xlsx (Microsoft Excel) respeitando as tabelas de acordo com as instruções do usuário.
 - Funções DAX: Usado para criar medida e modelos, retornando valores brutos e fixos das planilhas usadas na análise.
 - Microsoft Power BI: Usado para criar os Dashboards e as funções DAX.
 ---
@@ -43,11 +42,6 @@ Confira uma demonstração prática de 20 segundos dos painéis em funcionamento
 ### Claude IA
 <img src="Chat_Claude.png" alt="Claude" width=500>
 <a href="resumo_conversa_claude.txt">Clique aqui para ver a conversa na integra</a>
-
-### Chat GPT
-<img src="Chat_GPT.png" alt="Chat GPT" width=500>
-<a href="resumo_conversa_gpt.txt">Clique aqui para ver a conversa na integra</a>
-
 
 ---
 # 🔍 Principais Insights
